@@ -1,5 +1,7 @@
 {
-    "HomePage":{
-        "title":"Salom Jahon"
-    }
+  "HomePage": {
+    "title": "Салом Ҷаҳон",
+    "description": "Намунаи барномаи серзабонаи Next.js бо истифодаи китобхонаи next-intl.",
+    "supportedLanguages": "Забонҳои дастгиришаванда: Тоҷикӣ, Русский, English"
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "HomePage":{
-        "title":"Hello World"
-    }
+  "HomePage": {
+    "title": "Hello World",
+    "description": "An example of a multi-language Next.js application using the next-intl library.",
+    "supportedLanguages": "Supported languages: Tajik, Russian, English"
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "HomePage":{
-        "title":"Privet Mir"
-    }
+  "HomePage": {
+    "title": "Привет Мир",
+    "description": "Пример мультиязычного приложения на Next.js с использованием библиотеки next-intl.",
+    "supportedLanguages": "Поддерживаемые языки: Тоҷикӣ, Русский, English"
+  }
 }
